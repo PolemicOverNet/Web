@@ -1,0 +1,48 @@
+baseURL = "https://blog.polemicover.net"
+author = "Matteo Castellani"
+copyright = "Matteo Castellani 2010-2023"
+languageCode = "it"
+DefaultContentLanguage = "it"
+theme = 'beautifulhugo'
+
+[Params]
+selfHosted = true
+hometitle = "La Casa Di Polemica"
+subtitle = "Esclusivamente Over The Net"
+favicon = "img/funico.ico"
+logo = "img/LeVecchieECareAbitudini-150x150.jpg"
+rss = true
+socialShare = true
+since = 2010
+to = 2023
+
+
+[Author]
+  name = "Matteo Castellani"
+  website = "https://blog.polemicover.net"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+[[menu.main]]
+identifier = "notes-and-bits"
+name = "Notes"
+url = "/notes-and-bits/"
+weight = 10
+[[menu.main]]
+identifier = "todo-vs-done"
+name = "Cosa fatta..."
+url = "/todo-vs-done/"
+weight = 10
+[[menu.main]]
+identifier = "links"
+name = "Links"
+url = "/links/"
+weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
