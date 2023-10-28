@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2023-10-26T23:15:00+02:00
-draft: true
+draft: false
 ---
 
 ## Il Manuale Su DevOps
