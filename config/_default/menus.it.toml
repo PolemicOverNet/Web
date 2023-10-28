@@ -1,0 +1,25 @@
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 2
+url = "/"
+[[main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+[[main]]
+identifier = "notes-and-bits"
+name = "Notes"
+url = "/notes-and-bits/"
+weight = 10
+[[main]]
+identifier = "todo-vs-done"
+name = "Cosa fatta..."
+url = "/todo-vs-done/"
+weight = 10
+[[main]]
+identifier = "links"
+name = "Links"
+url = "/links/"
+weight = 10

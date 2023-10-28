@@ -1,0 +1,38 @@
+baseURL = "https://polemic.pages.dev"
+author = "Matteo Castellani"
+copyright = "Matteo Castellani 2010-2023"
+languageCode = "it"
+DefaultContentLanguage = "it"
+theme = 'anatole'
+title = "Polemic Over (DOT) Net"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+[[menu.main]]
+identifier = "notes-and-bits"
+name = "Notes"
+url = "/notes-and-bits/"
+weight = 10
+[[menu.main]]
+identifier = "todo-vs-done"
+name = "Cosa fatta..."
+url = "/todo-vs-done/"
+weight = 10
+[[menu.main]]
+identifier = "links"
+name = "Links"
+url = "/links/"
+weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
