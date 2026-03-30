@@ -1,3 +1,9 @@
+---
+title: "DScusate il silenzio radio"
+date: 2023-10-15
+layout: "post"
+---
+
 **DScusate il silenzio radio [1]** — da quando è stata pubblicata l’ultima notizia, il tempo è passato come un’eternità. Sembra che i mesi si siano fusi in una nebbia densa, ma è arrivato il momento di rompere il silenzio e tornare a condividere. Non è solo un ritorno, ma un rinnovo di energia e progetti che hanno bisogno di essere condivisi.
 
 **Ancora in preparazione per la Notturna di Firenze** — un evento che ogni anno mi tiene sveglio fino alle prime luci dell’alba. Dopo aver completato la precedente edizione due anni fa, ho ripreso il cammino con un obiettivo chiaro: abbassare il mio record personale sotto i 50 minuti, o almeno eguagliarlo. È una sfida che mi ha seguito per anni, e ogni anno diventa un’opportunità per crescere, non solo come atleta, ma come persona. L’ultima volta ho toccato il record, ma questa volta sento che il momento è maturo per andare oltre.
